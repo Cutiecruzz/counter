@@ -1,0 +1,29 @@
+body{
+  background:linear-gradient(to top,black, #666);
+  height: 90vh;
+
+
+}
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+.btnss{
+    margin-top: 200px;
+}
+.btns{
+    text-align: center;
+}
+button{
+    font-size:30px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 2px solid black;
+    
+
+}
+button:hover{
+    border: 2px solid #666;
+}
